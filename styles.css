@@ -25,6 +25,10 @@ body {
 	margin-top:-15px;
 }
 
+.price-block-wrapper {
+	background-color:#2ecc71;
+}
+
 .price-block {
 	width:100%;
 	background-color:#2ecc71;
